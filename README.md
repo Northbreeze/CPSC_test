@@ -9,3 +9,6 @@ This is a sample project for learning github
 
 # Requirements
 
+# Pushing to github
+I'm learning how to push my code from local to github
+
